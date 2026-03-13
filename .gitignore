@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+drone-viewer/build/
+
+# Cloned upstream repos (add as submodules later if needed)
+gaussian-splatting/
+instant-ngp/
+
+# Large binaries and data
+instant-ngp-rtx4000.zip
+instant-ngp-bin/
+*.MP4
+*.mp4
+*.mov
+
+# Uploads and generated data (uncomment to include sample data)
+nerf_data/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE and OS
+.DS_Store
+Thumbs.db
+*.log
