@@ -2,6 +2,8 @@
 
 3D drone point cloud and mesh viewer with solar simulation. Uses Instant-NGP, COLMAP, and Gaussian splatting for reconstruction.
 
+
+
 ## Setup
 
 1. **Backend**: `pip install fastapi uvicorn pydantic sse-starlette`
