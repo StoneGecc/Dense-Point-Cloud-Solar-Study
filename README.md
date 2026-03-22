@@ -2,8 +2,7 @@
 
 3D drone point cloud and mesh viewer with solar simulation. Uses Instant-NGP, COLMAP, and Gaussian splatting for reconstruction.
 
-https://www.youtube.com/watch?v=2FX-flXU8WY
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2FX-flXU8WY?si=FN9E83EzobkJjoq-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Setup
 
